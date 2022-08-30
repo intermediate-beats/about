@@ -10,4 +10,4 @@
 ## Style Guide
 > Premature optimization is the root of all evil. 
 >
-> - Donald Knuth
+> -- <cite>Donald Knuth</cite>
